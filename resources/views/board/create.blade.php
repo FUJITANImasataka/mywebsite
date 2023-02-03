@@ -32,7 +32,7 @@
                     </div>
 
                     <x-primary-button class="mt-4">
-                        Submit
+                        Send
                     </x-primary-button>
                     
                 </form>
