@@ -112,7 +112,7 @@
 
         <section id="contact">
             
-            <button type=“button” onclick="location.href='https://ecf402fb130845a3a99b723d9d53cafb.vfs.cloud9.ap-northeast-1.amazonaws.com/register'" class="contact-btn contact-form">Apply meow🎵</button>
+            <button type=“button” onclick="window.open('https://myfirstapp.mydns.jp/register')" class="contact-btn contact-form">Apply meow🎵</button>
             
             <!--<h2>Contact</h2>-->
             <!--<form class="contact-form" action="">-->
